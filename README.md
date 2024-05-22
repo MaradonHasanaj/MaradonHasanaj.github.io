@@ -4,16 +4,6 @@
 - M.S., Aerospace Engineering	| Polytechnics of Turin (_November 2023_)	 			        		
 - B.S., Aerospace Engineering | Polytechnics of Turin (_October 2021_)
 
-## Work Experience
-**Technical Manager @ Ecohouse SRLS (_Jan 2024 - Apr 2024_)**
-
-For a solar panel installation company, I held the responsibility to:
-
-- Control 5 electrical integration of solar panel systems per week, ensuring connectivity between solar modules, inverter, batteries, and home electrical systems.
-
-- Coordinate and manage 2 installation teams to deliver installations on schedule. Deadlines were met 80% of the time on average.
-
-- Conduct business analysis every month to optimize operations.This has led to accepting jobs located within a maximum distance of 100 km from our headquarters.
 
 ## Projects
 ### CAD Designer: Focused on the preliminary design of an Airbus A350, utilizing SolidWorks for 3D modeling.
